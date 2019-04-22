@@ -1,6 +1,6 @@
 <?php
 /**
- * Plugin Name: WooCommerce Branding
+ * Plugin Name: HYP WC Branding
  * Plugin URI: https://github.com/hypericumimpex/hyp-wc-branding/
  * Description: Rebrand UI.
  * Version: 1.0.19
